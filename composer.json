@@ -1,0 +1,19 @@
+{
+    "name": "yanagi/cms",
+    "type": "project",
+    "require": {
+        "envms/fluentpdo": "^2.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yanagi\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio Carvalho",
+            "email": "caioldcarvalho@protonmail.com"
+        }
+    ]
+}
