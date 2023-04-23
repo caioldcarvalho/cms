@@ -8,7 +8,10 @@
     "autoload": {
         "psr-4": {
             "Yanagi\\Cms\\": "src/"
-        }
+        },
+        "files": [
+            "config.php"
+        ]
     },
     "authors": [
         {
